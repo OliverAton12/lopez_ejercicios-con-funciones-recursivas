@@ -1,0 +1,4 @@
+Calificación: 1.5/2
+
+Debe documentar todas las funciones
+Desde el main hay que llamar al menos 2 veces a cada función
